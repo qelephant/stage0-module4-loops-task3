@@ -6,6 +6,5 @@ public class RangeSum {
         for (int i = firstBoarder; i <= secondBoarder; i++)
              sum = sum + i;
           System.out.println(sum);
-        }
     }
 }
